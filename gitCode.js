@@ -2,7 +2,9 @@ import React from 'react'
 
 const gitCode = () => {
   return (
-    <div>gitCode</div>
+    <div>gitCode
+      <p>hello</p>
+    </div>
   )
 }
 
